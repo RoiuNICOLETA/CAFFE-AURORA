@@ -34,7 +34,7 @@ Built with clean **HTML, CSS, and JavaScript**, Caffè Aurora combines a warm ae
 
 💻 Laptop – Full Layout
 
-<img width="700"  alt="CAFFE AUROARA LAPTOP" src="https://github.com/user-attachments/assets/a3eb481f-62e9-4ab2-8e53-c5c6a61103f5" />
+<img width="800"  alt="CAFFE AUROARA LAPTOP" src="https://github.com/user-attachments/assets/a3eb481f-62e9-4ab2-8e53-c5c6a61103f5" />
 
 <img width="800"  alt="CAFFE AURORA DESCHIS" src="https://github.com/user-attachments/assets/93fb04af-6423-471e-b7e1-f2f6fe174b82" />
 
