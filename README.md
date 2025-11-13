@@ -47,22 +47,23 @@ Built with clean **HTML, CSS, and JavaScript**, Caffè Aurora combines a warm ae
 <img width="900" alt="AURORA LIGHT DARK" src="https://github.com/user-attachments/assets/baa6f890-cc94-438b-9cee-1d90a14fe208" />
 
 📂 Project Structure
-📦 caffe-aurora
- ┣ 📂 assets
- ┣ 📂 css
- ┣ 📂 js
- ┣ index.html
- ┗ README.md
+
+* 📦 caffe-aurora
+ - ┣ 📂 assets
+ - ┣ 📂 css
+ - ┣ 📂 js
+ - ┣ index.html
+ - ┗ README.md
 
 🎓 What I Learned
 
 * This project helped me improve:
 * Mobile-first workflow & responsive layouts
-Writing clean, scalable CSS
-Creating aesthetic UI sections
-Working with animations & transitions
-Optimizing images for faster performance
-Organizing a project for real-world use
+* Writing clean, scalable CSS
+* Creating aesthetic UI sections
+* Working with animations & transitions
+* Optimizing images for faster performance
+* Organizing a project for real-world use
 
 🧑‍💻 About the Developer
 
@@ -71,6 +72,6 @@ I focus on aesthetic design, usability, and delivering simple but beautiful web 
 
 📬 Contact
 
-🌐 LinkedIn: www.linkedin.com/in/nicoleta-roiu-183701296
-📧 Email: nicoll27_2004@yahoo.com
-🐙 GitHub: https://github.com/RoiuNICOLETA
+- 🌐 LinkedIn: www.linkedin.com/in/nicoleta-roiu-183701296
+- 📧 Email: nicoll27_2004@yahoo.com
+- 🐙 GitHub: https://github.com/RoiuNICOLETA
