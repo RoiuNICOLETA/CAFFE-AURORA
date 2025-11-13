@@ -56,8 +56,8 @@ Built with clean **HTML, CSS, and JavaScript**, Caffè Aurora combines a warm ae
 
 🎓 What I Learned
 
-This project helped me improve:
-Mobile-first workflow & responsive layouts
+* This project helped me improve:
+* Mobile-first workflow & responsive layouts
 Writing clean, scalable CSS
 Creating aesthetic UI sections
 Working with animations & transitions
