@@ -31,8 +31,9 @@ Built with clean **HTML, CSS, and JavaScript**, Caffè Aurora combines a warm ae
 
 
 ## 📸 Preview  
-![Caffe Aurora Mobile](https://github.com/user-attachments/assets/ef403cf4-48f8-4e55-838b-1e93e8c683ca)
-![Caffe Aurora Laptop](https://github.com/user-attachments/assets/c884560b-30a7-4621-9360-c3ca50443a2d)
+<img width="1024" height="1536" alt="CAFFE AUROARA LAPTOP" src="https://github.com/user-attachments/assets/a3eb481f-62e9-4ab2-8e53-c5c6a61103f5" />
+<img width="1024" height="1024" alt="CAFFE AURORA MOBIL" src="https://github.com/user-attachments/assets/7765b6e9-120d-49bf-b379-90b3b53b2a56" />
+
 
 🧑‍💻 About the Developer
 
